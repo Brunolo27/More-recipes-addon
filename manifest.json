@@ -1,0 +1,17 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "§l§o§aMore §fRecipes by Brunolo27",
+        "name": "§l§o§aMore §fRecipes",
+        "uuid": "25b0225a-d66f-45df-8034-a58e4f6eca32",
+        "version": [0,10,3],
+        "min_engine_version": [1,16,0]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "0900ac28-4b4f-4a06-a857-796cfc3e31e2",
+            "version": [0,10,3]
+        }
+    ]
+}
