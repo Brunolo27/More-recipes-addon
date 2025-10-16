@@ -1,0 +1,28 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "minecraft:sculk_vein"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      " A ",
+      "ABA",
+      " A "
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:vine"
+      },
+      "B": {
+        "item": "minecraft:sculk"
+      }
+    },
+    "result": {
+      "item": "minecraft:sculk_vein",
+	  "count": 4
+    }
+  }
+}

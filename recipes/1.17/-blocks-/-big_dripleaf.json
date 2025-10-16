@@ -1,0 +1,26 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "minecraft:big_dripleaf"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "A",
+      "B"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:waterlily"
+      },
+      "B": {
+        "item": "minecraft:small_dripleaf_block"
+      }
+    },
+    "result": {
+      "item": "minecraft:big_dripleaf"
+    }
+  }
+}

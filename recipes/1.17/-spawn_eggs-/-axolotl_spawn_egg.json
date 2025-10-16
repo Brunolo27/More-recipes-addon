@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "minecraft:axolotl_spawn_egg"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      " A ",
+      "ABA",
+      " A "
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:tropical_fish"
+      },
+      "B": {
+        "item": "minecraft:egg"
+      }
+    },
+    "result": {
+      "item": "minecraft:axolotl_spawn_egg"
+    }
+  }
+}

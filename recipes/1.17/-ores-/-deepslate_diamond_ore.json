@@ -1,0 +1,22 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "minecraft:deepslate_diamond_ore"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:diamond"
+      },
+      {
+        "item": "minecraft:deepslate"
+      }
+    ],
+    "result": {
+      "item": "minecraft:deepslate_diamond_ore"
+    }
+  }
+}

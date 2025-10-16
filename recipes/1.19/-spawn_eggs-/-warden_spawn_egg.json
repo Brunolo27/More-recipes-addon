@@ -1,0 +1,33 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "minecraft:warden_spawn_egg"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "ABA",
+      "CDC",
+      "ACA"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:sculk"
+      },
+      "B": {
+        "item": "minecraft:sculk_shrieker"
+      },
+      "C": {
+        "item": "minecraft:sculk_catalyst"
+      },
+      "D": {
+        "item": "minecraft:egg"
+      }
+    },
+    "result": {
+      "item": "minecraft:warden_spawn_egg"
+    }
+  }
+}

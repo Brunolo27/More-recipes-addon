@@ -1,0 +1,28 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:sculk_shrieker"
+    },
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "ABA",
+      "BCB",
+      "ABA"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:sculk"
+      },
+      "B": {
+        "item": "minecraft:sculk_catalyst"
+     },
+     "C": {
+      "item": "minecraft:noteblock"
+     }
+    },
+    "result": [
+      { "item": "minecraft:sculk_shrieker" }
+    ]
+  }
+}

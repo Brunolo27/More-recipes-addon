@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:reinforced_deepslate"
+    },
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "AAA",
+      "ABA",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:deepslate"
+      },
+      "B": {
+        "item": "minecraft:obsidian"
+     }
+    },
+    "result": {
+      "item": "minecraft:reinforced_deepslate",
+      "count": 2
+    }
+    ]
+  }
+}
