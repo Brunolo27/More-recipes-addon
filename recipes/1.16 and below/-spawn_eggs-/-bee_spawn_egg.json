@@ -1,0 +1,35 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "minecraft:bee_spawn_egg"
+    },    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      " A ",
+      "BCB",
+      " A "
+    ],
+    "key": {
+      "C": {
+        "item": "minecraft:egg"
+      },
+	   "A": {
+        "item": "minecraft:honeycomb"
+      },
+      "B": {
+        "item": "minecraft:honey_block"
+      }
+    },
+    "result": [
+      {
+        "item": "minecraft:spawn_egg",
+        "data": 122
+      },
+      {
+        "item": "minecraft:glass_bottle",
+        "count": 2
+      }
+    ]
+  }
+}

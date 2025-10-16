@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "minecraft:slimeball"
+    },
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "A"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:magma_cream"
+      }
+    },
+    "result": [
+      {
+        "item": "minecraft:slime_ball"
+      },
+      {
+        "item": "minecraft:blaze_powder"
+      }
+    ]
+  }
+}
