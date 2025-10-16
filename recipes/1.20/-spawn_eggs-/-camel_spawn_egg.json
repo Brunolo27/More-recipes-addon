@@ -1,0 +1,30 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "minecraft:camel_spawn_egg"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "ABA",
+      "BCB",
+      "ABA"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:cactus"
+      },
+      "B": {
+        "item": "minecraft:sand"
+      },
+      "C": {
+        "item": "minecraft:egg"
+      }
+    },
+    "result": {
+      "item": "minecraft:camel_spawn_egg"
+    }
+  }
+}
