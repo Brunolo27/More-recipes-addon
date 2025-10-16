@@ -1,0 +1,31 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "minecraft:silverfish_spawnn_egg"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      " A ",
+      "ABA",
+      " C "
+    ],
+    "key": {
+      "B": {
+        "item": "minecraft:egg"
+      },
+      "A": {
+        "item": "minecraft:iron_nugget"
+      },
+	   "C": {
+        "item": "minecraft:fish"
+      }
+    },
+    "result": {
+      "item": "minecraft:spawn_egg",
+	  "data": 39
+    }
+  }
+}

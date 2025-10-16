@@ -1,0 +1,29 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "minecraft:squid_spawn_egg"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      " A ",
+      "ABA",
+      " A "
+    ],
+    "key": {
+      "B": {
+        "item": "minecraft:egg"
+      },
+      "A": {
+        "item": "minecraft:dye",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "minecraft:spawn_egg",
+	  "data": 17
+    }
+  }
+}

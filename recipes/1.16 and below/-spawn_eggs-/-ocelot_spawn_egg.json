@@ -1,0 +1,29 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "minecraft:ocelot_spawn_egg"
+    },    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      " A ",
+      "BCB",
+      " A "
+    ],
+    "key": {
+      "C": {
+        "item": "minecraft:egg"
+      },
+      "A": {
+        "item": "minecraft:fish"
+      },
+	   "B": {
+        "item": "minecraft:chicken"
+      }
+    },
+    "result": {
+      "item": "minecraft:spawn_egg",
+	  "data": 22
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "minecraft:husk_spawn_egg"
+    },
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      " A ",
+      "CBC",
+      " A "
+    ],
+    "key": {
+      "C": {
+        "item": "minecraft:sand"
+      },
+      "A": {
+        "item": "minecraft:rotten_flesh"
+      },
+	  "B": {
+        "item": "minecraft:egg"
+      }
+    },
+    "result": {
+      "item": "minecraft:spawn_egg",
+	  "data": 47
+    }
+  }
+}

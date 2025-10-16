@@ -1,0 +1,29 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:donkey_spawn_egg"
+    },
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      " A ",
+      "BCB"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:saddle"
+    },
+      "B": {
+        "item": "minecraft:apple"
+    },
+      "C": {
+        "item": "minecraft:egg"
+    }
+  },
+
+  "result": {
+    "item": "minecraft:spawn_egg",
+    "data": 24
+    }
+  }
+}

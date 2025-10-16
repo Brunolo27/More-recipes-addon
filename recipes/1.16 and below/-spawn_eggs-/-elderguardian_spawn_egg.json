@@ -1,0 +1,28 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "minecraft:elderguardian_spawn_egg"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "A",
+      "B",
+      "A"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:sponge"
+      },
+	  "B": {
+        "item": "minecraft:egg"
+      }
+    },
+    "result": {
+      "item": "minecraft:spawn_egg",
+	  "data": 50
+    }
+  }
+}

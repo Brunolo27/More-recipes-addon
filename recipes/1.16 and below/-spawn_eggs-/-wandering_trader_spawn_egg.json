@@ -1,0 +1,29 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "minecraft:wandering_trader_spawn_egg"
+    },
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "AAA",
+      "CBC",
+      "AAA"
+    ],
+    "key": {
+      "B": {
+        "item": "minecraft:egg"
+      },
+      "C": {
+        "item": "minecraft:leather"
+      },
+      "A": {
+        "item": "minecraft:emerald"
+      }
+    },
+    "result": {
+      "item": "minecraft:spawn_egg",
+	  "data": 118
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "minecraft:guardian_spawn_egg"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "A",
+      "B",
+      "A"
+    ],
+    "key": {
+      "B": {
+        "item": "minecraft:egg"
+      },
+      "A": {
+        "item": "minecraft:prismarine_shard"
+      }
+    },
+    "result": {
+      "item": "minecraft:spawn_egg",
+	  "data": 49
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "minecraft:witch_spawn_egg"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "ABA",
+      "BCB",
+      "ABA"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:redstone"
+      },
+      "B": {
+        "item": "minecraft:glass_bottle",
+		"data": 0
+      },
+	  "C": {
+        "item": "minecraft:egg"
+      }
+    },
+    "result": {
+      "item": "minecraft:spawn_egg",
+	  "data": 45
+    }
+  }
+}

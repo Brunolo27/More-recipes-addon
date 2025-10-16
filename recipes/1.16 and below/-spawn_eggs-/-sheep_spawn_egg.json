@@ -1,0 +1,28 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "minecraft:sheep_spawn_egg"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      " A ",
+      "ABA",
+      " A "
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:wool"
+      },
+      "B": {
+        "item": "minecraft:egg"
+      }
+    },
+    "result": {
+      "item": "minecraft:spawn_egg",
+	  "data": 13
+    }
+  }
+}
