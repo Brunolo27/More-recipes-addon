@@ -1,0 +1,20 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_brewing_mix": {
+    "description": {
+      "identifier": "minecraft:ominous_bottle_V"
+    },
+    "tags": [
+      "brewing_stand"
+    ],
+    "output": {
+      "item": "minecraft:ominous_bottle",
+      "data": 4
+    },
+    "input": {
+      "item": "minecraft:ominous_bottle",
+      "data": 3
+    },
+    "reagent": "minecraft:redstone"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_brewing_mix": {
+    "description": {
+      "identifier": "minecraft:ominous_bottle"
+    },
+    "tags": [
+      "brewing_stand"
+    ],
+    "output": "minecraft:ominous_bottle",
+    "input": "minecraft:potion_type:awkward",
+    "reagent": "minecraft:crossbow"
+  }
+}

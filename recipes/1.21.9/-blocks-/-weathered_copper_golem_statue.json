@@ -1,0 +1,24 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "minecraft:weathered_copper_golem_statue"
+    },
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "A",
+      "B"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:carved_pumpkin"
+      },
+      "B": {
+        "item": "minecraft:weathered_copper"
+      }
+    },
+    "result": {
+        "item": "minecraft:weathered_copper_golem_statue"
+    }
+  }
+}

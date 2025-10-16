@@ -1,0 +1,28 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "minecraft:waxed_copper_golem_statue"
+    },
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "A",
+      "B",
+      "C"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:carved_pumpkin"
+      },
+      "B": {
+        "item": "minecraft:copper_block"
+      },
+      "C": {
+        "item": "minecraft:honeycomb"
+      }
+    },
+    "result": {
+        "item": "minecraft:waxed_copper_golem_statue"
+    }
+  }
+}

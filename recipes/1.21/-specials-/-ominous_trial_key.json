@@ -1,0 +1,18 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "minecraft:ominous_trial_key"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      { "item": "minecraft:trial_key" },
+      { "item": "minecraft:ominous_bottle", "data": 4 }
+    ],
+    "result": {
+      "item": "minecraft:ominous_trial_key"
+    }
+  }
+}

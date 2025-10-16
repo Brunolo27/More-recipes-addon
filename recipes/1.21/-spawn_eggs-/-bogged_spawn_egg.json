@@ -1,0 +1,29 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:bogged_spawn_egg"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "ABA",
+      "CDC",
+      "ABA"
+    ],
+    "key": {
+      "A": { "item": "minecraft:arrow"
+      },
+      "B": { "item": "minecraft:brown_mushroom" 
+      },
+      "C": { "item": "minecraft:red_mushroom" 
+      },
+      "D": { "item": "minecraft:egg" 
+      }
+    },
+    "result": {
+      "item": "minecraft:bogged_spawn_egg"
+    }
+  }
+}
